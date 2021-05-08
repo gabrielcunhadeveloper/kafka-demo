@@ -24,8 +24,8 @@ public class OrderMain {
 
     public static void main(String[] args) throws ExecutionException, InterruptedException, IOException {
 
-        String username = "gabriel";
-        String password = "@lice9376!!";
+        String username = "user";
+        String password = "pass";
         String host = "192.168.0.185";
         int port = 22;
         long defaultTimeoutSeconds = 10l;
